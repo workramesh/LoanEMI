@@ -1,7 +1,7 @@
 
 {
   "app_marketing": "0",
-  "app_fbmarketing": "1",
+  "app_fbmarketing": "0",
   "app_live": "1",
   "is_google_ad": "0",
   "google_appopen": "ca-app-pub-3940256099942544/9257395921",
@@ -10,7 +10,7 @@
   "google_banner": "ca-app-pub-3940256099942544/9214589741",
   "google_Adaptivebanner": "ca-app-pub-3940256099942544/9214589741",
   "google_reward": "ca-app-pub-3940256099942544/5224354917",
-  "is_facebook_ad": "0",
+  "is_facebook_ad": "1",
   "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
